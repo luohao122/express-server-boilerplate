@@ -2,7 +2,7 @@
 node_modules
 npm-debug.log
 
-#config files
+# Config files
 server/config.js
 
 # Local development
